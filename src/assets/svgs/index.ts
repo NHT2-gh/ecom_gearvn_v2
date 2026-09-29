@@ -1,0 +1,51 @@
+export { default as SVGTikTok } from "./svg-tiktok";
+export { default as SVGNotFound } from "./svg-not-found";
+export { default as SVGLessonProcess } from "./svg-lesson-process";
+export { default as SVGSayHi } from "./svg-say-hi";
+export { default as SVGEyeClock } from "./svg-eye-clock";
+export { default as SVGGVNLogo } from "./svg-gvn-logo";
+export { default as SVGThunder } from "./svg-thunder";
+export { default as SVGFire } from "./svg-fire";
+export { default as SVGVGA } from "./svg-vga";
+export { default as SVGMain } from "./svg-main";
+export { default as SVGSSD } from "./svg-ssd";
+export { default as SVGRAM } from "./svg-ram";
+export { default as SVGCPU } from "./svg-cpu";
+export { default as SVGScreen } from "./svg-screen";
+export { default as SVGHz } from "./svg-hz";
+export { default as SVGGift } from "./svg-gift";
+export { default as SVGLed } from "./svg-led";
+export { default as SVGConnect } from "./svg-connect";
+export { default as SVGPin } from "./svg-pin";
+export { default as SVGRes } from "./svg-res";
+export { default as SVGPlane } from "./svg-plane";
+
+export { default as SVGFacebook } from "./svg-fb";
+export { default as SVGTiktok } from "./svg-tiktok";
+export { default as SVGYoutube } from "./svg-ytb";
+export { default as SVGZalo } from "./svg-zalo";
+
+export { default as SVGTagSale } from "./svg-tag-sale";
+export { default as SVGCoins } from "./svg-coins";
+export { default as SVGTruck } from "./svg-truck";
+export { default as SVGCheck } from "./svg-check";
+
+export { default as SVGCartChecked } from "./svg-cart-checked";
+export { default as SVGComplete } from "./svg-complete";
+export { default as SVGPayment } from "./svg-payment";
+export { default as SVGInfoUser } from "./svg-info-user";
+
+export { default as SVGLaptop } from "./svg-laptop";
+export { default as SVGSoftware } from "./svg-software";
+export { default as SVGScreenMenu } from "./svg-screen-menu";
+export { default as SVGGiftMenu } from "./svg-gift-menu";
+export { default as SVGHeadphone } from "./svg-headphone";
+export { default as SVGLaptopGaming } from "./svg-laptop-gaming";
+export { default as SVGKeyboard } from "./svg-keyboard";
+export { default as SVGMouse } from "./svg-mouse";
+export { default as SVGLoudspeaker } from "./svg-loudspeaker";
+export { default as SVGPC } from "./svg-pc";
+export { default as SVGGamingChair } from "./svg-gaming-chair";
+export { default as SVGGameController } from "./svg-game-controller";
+export { default as SVGRamMenu } from "./svg-ram-menu";
+export { default as SVGLoadingState } from "./svg-loading-state";

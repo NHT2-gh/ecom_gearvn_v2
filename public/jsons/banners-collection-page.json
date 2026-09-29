@@ -1,0 +1,57 @@
+[
+  {
+    "id": "collection-banner-top",
+    "page": ["collection"],
+    "position": "top",
+    "layout": "single",
+    "displayMode": "static",
+    "bannerItems": [
+      {
+        "id": "collection-banner-top-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "collection-banner-top-1-1",
+              "alt": "Màn hình",
+              "src": "/images/banner/collection/BannerHero.webp",
+              "width": 1440,
+              "height": 469
+            },
+            "link": "https://gearvn.com/pages/laptop-gaming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "collection-banner-middle",
+    "page": ["collection"],
+    "position": "middle",
+    "layout": "single",
+    "displayMode": "static",
+    "configLayout": {
+      "single": {
+        "tailwindCSS": "w-full"
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "collection-banner-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "collection-banner-1-1",
+              "alt": "Back to school",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-t8-header-banner.png",
+              "width": 1240,
+              "height": 349
+            },
+            "link": "https://gearvn.com/pages/laptop-gaming"
+          }
+        ]
+      }
+    ]
+  }
+]

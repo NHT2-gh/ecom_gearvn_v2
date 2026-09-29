@@ -1,0 +1,15 @@
+export const monitorSpecMap = {
+  spec_screen_size: "Kích thước màn hình",
+  spec_panel_type: "Tấm nền",
+  spec_aspect_ratio: "Tỉ lệ màn hình",
+  spec_refresh_rate: "Tần số quét",
+  spec_response_time: "Thời gian phản hồi",
+  spec_resolution: "Độ phân giải màn hình",
+  spec_ports: "Cổng kết nối",
+  spec_weight: "Trọng lượng",
+  spec_color_gamut: "Dải màu",
+  spec_brightness: "Độ sáng",
+  spec_contrast_ratio: "Tỉ lệ tương phản",
+  spec_viewing_angle: "Góc nhìn",
+  spec_vsync: "Công nghệ đồng bộ hình ảnh",
+};

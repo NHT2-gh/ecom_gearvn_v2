@@ -1,0 +1,421 @@
+[
+  {
+    "id": "hero-grid-banner",
+    "page": ["homepage"],
+    "position": "top",
+    "layout": "grid",
+    "bannerItems": [
+      {
+        "id": "slide-hero-bannerImages",
+        "type": "carousel",
+        "cols": 2,
+        "rows": 2,
+        "bannerImages": [
+          {
+            "image": {
+              "id": "slide-bannerImages-1-1",
+              "alt": "Gearvn Acer Back To School 2025",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-laptop-van-phong-slider-t10.jpg",
+              "width": 650,
+              "height": 325
+            },
+            "link": "/pages/laptop-gaming"
+          },
+          {
+            "image": {
+              "id": "slide-bannerImages-1-2",
+              "alt": "Gearvn Thu Cũ Đổi Mới",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-laptop-gaming-slider-t10a.jpg",
+              "width": 650,
+              "height": 325
+            },
+            "link": "/pages/laptop-gaming"
+          },
+          {
+            "image": {
+              "id": "slide-bannerImages-1-3",
+              "alt": "Gearvn Thu Cũ Đổi Mới",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-gaming-gear-deal-hoi-slider-t8-jpg.jpg",
+              "width": 650,
+              "height": 325
+            },
+            "link": "/pages/laptop-gaming"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-2",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-2-1",
+              "alt": "PC Workstation Hero bannerImages",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-build-pc-slider-right-t8.png",
+              "width": 321,
+              "height": 161
+            },
+            "link": "/pages/laptop-gaming"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-3",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-3-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-ban-phim-slider-right-t8.png",
+              "width": 321,
+              "height": 161
+            },
+            "link": "/phu-kien-gaming"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-4",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-4-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-slider-bot-t8.png",
+              "width": 321,
+              "height": 161
+            },
+            "link": "/phu-kien-gaming"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-5",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-5-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-laptop-van-phong-slider-bot-t8.png",
+              "width": 321,
+              "height": 161
+            },
+            "link": "/phu-kien-gaming"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-6",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-6-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-rtx-5060-t9-bottom.png",
+              "width": 321,
+              "height": 161
+            },
+            "link": "/phu-kien-gaming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hero-flex-row-banner",
+    "page": ["homepage"],
+    "position": "top",
+    "layout": "flex-row",
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-7",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-7-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-rtx-5060-t9-bottom.png",
+              "width": 294,
+              "height": 147
+            },
+            "link": ""
+          }
+        ]
+      },
+      {
+        "id": "bannerImages-8",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-8-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-rtx-5060-t9-bottom.png",
+              "width": 294,
+              "height": 147
+            },
+            "link": ""
+          }
+        ]
+      },
+      {
+        "id": "bannerImages-9",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-9-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-rtx-5060-t9-bottom.png",
+              "width": 294,
+              "height": 147
+            },
+            "link": ""
+          }
+        ]
+      },
+      {
+        "id": "bannerImages-10",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-10-1",
+              "alt": "Gaming Accessories Hero bannerImages",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-rtx-5060-t9-bottom.png",
+              "width": 294,
+              "height": 147
+            },
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "under-flash-sale",
+    "page": ["homepage"],
+    "position": "middle",
+    "layout": "flex-row",
+    "configLayout": {
+      "gap": 16
+    },
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-14",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-14-1",
+              "alt": "Build PC theo ý của bạn",
+              "src": "https://file.hstatic.net/200000722513/file/thang_06_banner_build_pc_top_promotion_banner_2.png",
+              "width": 591,
+              "height": 189
+            },
+            "link": "/pages/build-pc"
+          }
+        ]
+      },
+
+      {
+        "id": "hero-bannerImages-15",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-15-1",
+              "alt": "Ghế bàn giảm đến 40%",
+              "src": "https://file.hstatic.net/200000722513/file/thang_06_banner_ghe_top_promotion_banner_1.png",
+              "width": 591,
+              "height": 189
+            },
+            "link": "/collections/ghe-gia-tot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "middle-group-products",
+    "page": ["homepage"],
+    "position": "bottom",
+    "layout": "grid",
+    "configLayout": {
+      "gap": 16,
+      "colsSize": ["794px", "389px"],
+      "rowsSize": ["120px", "120px"]
+    },
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-11",
+        "type": "image",
+        "cols": 2,
+        "rows": 2,
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-11-1",
+              "alt": "Màn hình khuyến mãi Tháng 10",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-man-hinh-t10-bot-promotion-big.jpg",
+              "width": 794,
+              "height": 252
+            },
+            "link": "/pages/man-hinh"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-12",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-12-1",
+              "alt": "Tai nghe",
+              "src": "https://file.hstatic.net/200000722513/file/banner_790x250_tai_nghe_6f6dcb17d3a54fcc88b3de96762d2d41.jpg",
+              "width": 389,
+              "height": 120
+            },
+            "link": "/pages/man-hinh"
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-13",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-13-1",
+              "alt": "Banner",
+              "src": "https://file.hstatic.net/200000722513/file/bot_promotion_banner_small_2_2ad55c2345c64fbfb87dab4957b33914.png",
+              "width": 389,
+              "height": 120
+            },
+            "link": "/pages/pc-custom-nuoc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "top-banner",
+    "page": ["all"],
+    "position": "top",
+    "layout": "single",
+    "displayMode": "dynamic",
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-17",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-17-1",
+              "alt": "Back to School 2025",
+              "src": "https://file.hstatic.net/200000722513/file/gearvn-back-to-school-25-topbar.png",
+              "width": 1200,
+              "height": 47
+            },
+            "link": "/pages/back-to-school-2025",
+            "customStyle": {
+              "backgroundColor": "rgb(107,213,255)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-18",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-18-1",
+              "alt": "PC GVN Tháng 11",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-t11-topbar.png",
+              "width": 1200,
+              "height": 47
+            },
+            "link": "/pages/back-to-school-2025",
+            "customStyle": {
+              "backgroundColor": "#027fff"
+            }
+          }
+        ]
+      },
+      {
+        "id": "hero-bannerImages-19",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-19-1",
+              "alt": "Laptop gaming Tháng 06",
+              "src": "https://file.hstatic.net/200000722513/file/thang_06_laptop_gaming_1280_x_50.png",
+              "width": 1200,
+              "height": 47
+            },
+            "link": "/pages/laptop-gaming",
+            "customStyle": {
+              "backgroundColor": "#c40000"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-banner-1",
+    "page": ["all"],
+    "position": "left-side",
+    "layout": "single",
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-20",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-20-1",
+              "alt": "PC GVN Tháng 11",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-t11-sticky-banner.jpg",
+              "width": 150,
+              "height": 452
+            },
+            "link": "/pages/pc-gvn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-banner-2",
+    "page": ["all"],
+    "position": "right-side",
+    "layout": "single",
+    "bannerItems": [
+      {
+        "id": "hero-bannerImages-21",
+        "type": "image",
+        "bannerImages": [
+          {
+            "image": {
+              "id": "hero-bannerImages-21-1",
+              "alt": "Laptop tháng 11",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-laptop-t11-sticky-banner.jpg",
+              "width": 150,
+              "height": 452
+            },
+            "link": "/pages/laptop-gaming"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+import React from 'react';
+
+// ----------------------------------------------------------------------
+
+export default function SVGPC({
+  ...props
+}: React.SVGProps<SVGSVGElement>): React.JSX.Element {
+  return (
+    <svg
+      width={20}
+      height={20}
+      viewBox="0 0 20 20"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <rect
+        x={1}
+        y={19}
+        width={18}
+        height={10}
+        rx={1}
+        transform="rotate(-90 1 19)"
+        stroke="currentcolor"
+      />
+      <path
+        d="M13 3H17C18.1046 3 19 3.89543 19 5V13C19 14.1046 18.1046 15 17 15H13"
+        stroke="currentcolor"
+      />
+      <path
+        d="M16.5 18.5C16.7761 18.5 17 18.2761 17 18C17 17.7239 16.7761 17.5 16.5 17.5V18.5ZM13 18.5H16.5V17.5H13V18.5Z"
+        fill="currentcolor"
+      />
+      <circle cx={6} cy={5} r={1} fill="currentcolor" />
+      <circle cx={6} cy={9} r={1} fill="currentcolor" />
+    </svg>
+  );
+}

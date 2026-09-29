@@ -1,0 +1,135 @@
+:root {
+  /* Base color */
+  --color-accent-primary: #e30019 !important; /* primary color */
+  --color-secondary: #6d6e72; /* secondary color */
+  --color-body-background: #ececec;
+  --color-primary: white !important;
+
+  /* Text color */
+  --color-text-primary: #111111;
+  --color-text-title: #333333;
+  --color-text-link: #0568d6;
+
+  /* State color */
+  --color-state-info: #1982f9;
+  --color-state-question: #ff8a00;
+  --color-state-success: #24b400;
+  --color-state-warning: #fdd835;
+  --color-state-error: #dc3545;
+
+  /* Input color */
+  --color-input-bg: #f6f7fa;
+  --color-input-bg-active: #ececec;
+  --color-input-fill: #cfcfcf;
+  --color-input-fill-sucess: #1e9800;
+  --color-input-text: #2c3c4d;
+
+  /* Color */
+  --color-cyan: #17a2b8;
+  --color-gray: #6c757d;
+  --color-gray-dark: #343a40;
+  --color-green: #28a745;
+  --color-indigo: #6610f2;
+  --color-light: #f8f9fa;
+  --color-orange: #fd7e14;
+  --color-pink: #e83e8c;
+  --color-purple: #6f42c1;
+  --color-red: #dc3545;
+  --color-teal: #20c997;
+  --color-yellow: #ffee12;
+  --color-blue: #007bff;
+
+  --color-flash-sale: #003bb8;
+
+  /* Button */
+  --color-button-primary: #be1529;
+
+  /* Badge */
+  --color-primary-light: #ffeded;
+
+  /* Stroke */
+  --color-stroke: #cfcfcf;
+
+  /* Other */
+  --header-height: 4.625rem;
+  --nav-width: 14rem;
+  --sub-header-height: 2.25rem;
+  --top-banner-height: 2.9375rem;
+
+  /* ... */
+  --bordercolor: #cfcfcf;
+  --color-body-bg: #ececec;
+  --color-body-bg-loading: rgba(255, 255, 255, 0.5);
+  --color-line-border: #cfcfcf;
+  --color-old-price: #e2231a;
+  --color-price: #2c3c4d;
+  --color-sub: #1982f9;
+  --color-text: #111111;
+  --color-text-link: #0568d6;
+  --color-title: #333333;
+  --danger: #dc3545;
+  --dark: #343a40;
+  --home-coupon-bg: #ffffff;
+  --home-coupon-border: #f8d0d3;
+  --home-coupon-light: #ffffff;
+  --home-coupon-text: #333333;
+  --info: #17a2b8;
+  --secondary: #6c757d;
+  --primary: #007bff;
+  --success: #28a745;
+  --swiper-theme-color: #007aff;
+  --textcolor: #111111;
+  --titlecolor: #333333;
+  --warning: #ffc107;
+}
+body {
+  font-family: "Inter", sans-serif !important;
+
+  .banner-slot.hidden {
+    display: block !important;
+  }
+
+  main {
+    display: flex !important;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.sub-header {
+  & p {
+    margin-bottom: 0 !important;
+  }
+}
+
+header {
+  & p {
+    margin-bottom: 0 !important;
+  }
+  & p.hidden {
+    display: unset !important;
+  }
+}
+
+footer {
+  ul {
+    padding-left: 0 !important;
+  }
+}
+
+.mega-menu-containe {
+  ul {
+    padding-left: 0;
+  }
+}
+
+.page-body {
+  & .container-fluid {
+    padding: 0;
+  }
+  & .page-sidebar .page_menu ul li a {
+    padding: 8px 0px !important;
+  }
+}

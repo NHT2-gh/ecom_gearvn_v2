@@ -1,0 +1,84 @@
+[
+  {
+    "id": "top-banner",
+    "page": ["all"],
+    "position": "top",
+    "layout": "single",
+    "displayMode": "static",
+    "configLayout": {
+      "single": {
+        "tailwindCSS": "w-full h-[2rem]"
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "hero-medias-17",
+        "type": "text",
+        "contentText": "Get <span class=\"text-txt-class-red\">$100</span> OFF Any Order over $1999 with discount code <span class=\"text-txt-class-red\">BLKFRIDAY25</span>",
+        "customStyle": {
+          "backgroundColor": "#F5F5F5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "side-banner-1",
+    "page": ["all"],
+    "position": "left-side",
+    "layout": "single",
+    "displayMode": "static",
+    "configLayout": {
+      "single": {
+        "tailwindCSS": "w-[150px] h-[452px]"
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "hero-medias-20",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "hero-medias-20-1",
+              "alt": "PC GVN Tháng 11",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-t11-sticky-banner.jpg",
+              "width": 150,
+              "height": 452
+            },
+            "link": "https://gearvn.com/pages/pc-gvn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-banner-2",
+    "page": ["all"],
+    "position": "right-side",
+    "layout": "single",
+    "displayMode": "static",
+    "configLayout": {
+      "single": {
+        "tailwindCSS": "w-[150px] h-[452px]"
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "hero-medias-21",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "hero-medias-21-1",
+              "alt": "Laptop tháng 11",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-laptop-t11-sticky-banner.jpg",
+              "width": 150,
+              "height": 452
+            },
+            "link": "https://gearvn.com/pages/laptop-gaming"
+          }
+        ]
+      }
+    ]
+  }
+]

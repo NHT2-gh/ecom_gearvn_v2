@@ -1,0 +1,251 @@
+[
+  {
+    "id": "hero-grid-banner",
+    "page": ["homepage"],
+    "position": "top",
+    "layout": "grid",
+    "displayMode": "static",
+    "configLayout": {
+      "grid": {
+        "tailwindCSS": ""
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "carousel-2-1",
+        "type": "carousel",
+        "medias": [
+          {
+            "image": {
+              "id": "carousel-2-2-1",
+              "alt": "Gearvn Acer Back To School 2025",
+              "src": "/images/banner/home/BannerHeroSection_2.webp",
+              "width": 632,
+              "height": 358
+            },
+            "link": "/pages/laptop-gaming"
+          },
+          {
+            "image": {
+              "id": "carousel-2-2-1",
+              "alt": "Gearvn Thu Cũ Đổi Mới",
+              "src": "/images/banner/home/BannerHeroSection_2.webp",
+              "width": 632,
+              "height": 358
+            },
+            "link": "/pages/laptop-gaming"
+          }
+        ]
+      },
+      {
+        "id": "group-1-2",
+        "type": "group-image",
+        "customStyle": {
+          "height": "100%",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "0.5rem",
+          "gridRow": "span 2"
+        },
+        "medias": [
+          {
+            "image": {
+              "id": "image-1-1-1",
+              "alt": "PC Workstation Hero medias",
+              "src": "/images/banner/home/BannerHeroSection_1.webp",
+              "width": 368,
+              "height": 187
+            },
+            "link": "/pages/laptop-gaming"
+          },
+          {
+            "image": {
+              "id": "image-1-1-2",
+              "alt": "Gaming Accessories Hero medias",
+              "src": "/images/banner/home/BannerHeroSection_1.webp",
+              "width": 368,
+              "height": 187
+            },
+            "link": "/phu-kien-gaming"
+          },
+          {
+            "image": {
+              "id": "image-1-1-3",
+              "alt": "Gaming Accessories Hero medias",
+              "src": "/images/banner/home/BannerHeroSection_1.webp",
+              "width": 368,
+              "height": 187
+            },
+            "link": "/phu-kien-gaming"
+          }
+        ]
+      },
+      {
+        "id": "carousel-2-1",
+        "type": "carousel",
+        "medias": [
+          {
+            "image": {
+              "id": "carousel-2-1-1",
+              "alt": "Gearvn Acer Back To School 2025",
+              "src": "/images/banner/home/BannerHeroSection_0.webp",
+              "width": 632,
+              "height": 187
+            },
+            "link": "/pages/laptop-gaming"
+          },
+          {
+            "image": {
+              "id": "carousel-2-1-2",
+              "alt": "Gearvn Thu Cũ Đổi Mới",
+              "src": "/images/banner/home/BannerHeroSection_0.webp",
+              "width": 632,
+              "height": 187
+            },
+            "link": "/pages/laptop-gaming"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "products-lib",
+    "page": ["homepage"],
+    "position": "products-lib",
+    "layout": "flex",
+    "displayMode": "static",
+    "configLayout": {
+      "flex": {
+        "tailwindCSS": "gap-5",
+        "direction": "column"
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "flex-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "banner-products-lib-flex-1-1",
+              "alt": "Sample Banner",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-pc-gvn-t11-sticky-banner.jpg",
+              "width": 289,
+              "height": 704
+            },
+            "link": "/"
+          }
+        ]
+      },
+      {
+        "id": "flex-2",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "banner-products-lib-flex-2-1",
+              "alt": "Sample Banner",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-laptop-t11-sticky-banner.jpg",
+              "width": 289,
+              "height": 704
+            },
+            "link": "/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "under-lib-products",
+    "page": ["homepage"],
+    "position": "middle",
+    "layout": "grid",
+    "displayMode": "static",
+    "configLayout": {
+      "grid": {
+        "tailwindCSS": ""
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "image-1-2",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "image-1-2-1",
+              "alt": "Màn hình khuyến mãi Tháng 10",
+              "src": "https://cdn.hstatic.net/files/200000722513/file/gearvn-man-hinh-t10-bot-promotion-big.jpg",
+              "width": 790,
+              "height": 290
+            },
+            "link": "/pages/man-hinh"
+          }
+        ]
+      },
+      {
+        "id": "image-1-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "image-1-1-1",
+              "alt": "Tai nghe",
+              "src": "https://file.hstatic.net/200000722513/file/banner_790x250_tai_nghe_6f6dcb17d3a54fcc88b3de96762d2d41.jpg",
+              "width": 437,
+              "height": 140
+            },
+            "link": "/pages/man-hinh"
+          }
+        ]
+      },
+      {
+        "id": "image-1-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "image-1-1-2",
+              "alt": "Banner",
+              "src": "https://file.hstatic.net/200000722513/file/bot_promotion_banner_small_2_2ad55c2345c64fbfb87dab4957b33914.png",
+              "width": 437,
+              "height": 140
+            },
+            "link": "/pages/pc-custom-nuoc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "under-group-products",
+    "page": ["homepage"],
+    "position": "middle",
+    "layout": "single",
+    "displayMode": "static",
+    "configLayout": {
+      "single": {
+        "tailwindCSS": ""
+      }
+    },
+    "bannerItems": [
+      {
+        "id": "image-1",
+        "type": "image",
+        "medias": [
+          {
+            "image": {
+              "id": "image-1-1",
+              "alt": "Banner",
+              "src": "https://file.hstatic.net/200000722513/file/thang_06_banner_collections_1920x420_-_web_header.png",
+              "width": 1240,
+              "height": 290
+            },
+            "link": "/pages/pc-custom-nuoc"
+          }
+        ]
+      }
+    ]
+  }
+]
